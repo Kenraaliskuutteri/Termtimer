@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -O2
-TARGET = termclock
+TARGET = termtimer
 PREFIX = /usr/local/bin
 
 all:
